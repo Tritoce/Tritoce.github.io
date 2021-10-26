@@ -5,14 +5,78 @@
         <link>http://xtgh.xyz</link>
         <description>1</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 20 Oct 2021 20:16:45 +0800</pubDate>
-        <lastBuildDate>Wed, 20 Oct 2021 20:16:45 +0800</lastBuildDate>
+        <pubDate>Tue, 26 Oct 2021 16:46:20 +0800</pubDate>
+        <lastBuildDate>Tue, 26 Oct 2021 16:46:20 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://xtgh.xyz/2021/10/20/test/</guid>
-            <title>test</title>
-            <link>http://xtgh.xyz/2021/10/20/test/</link>
-            <pubDate>Wed, 20 Oct 2021 20:16:45 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <guid isPermalink="true">http://xtgh.xyz/2021/10/26/test/</guid>
+            <title></title>
+            <link>http://xtgh.xyz/2021/10/26/test/</link>
+            <pubDate>Tue, 26 Oct 2021 16:46:20 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;frida_dump&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#frida_dump&#34;&gt;#&lt;/a&gt; frida_dump&lt;/h1&gt;
+&lt;h2 id=&#34;1-dump-android-module&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-dump-android-module&#34;&gt;#&lt;/a&gt; 1. dump android module&lt;/h2&gt;
+&lt;h3 id=&#34;usage&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#usage&#34;&gt;#&lt;/a&gt; usage:&lt;/h3&gt;
+&lt;p&gt;​	&lt;strong&gt;python dump_so.py&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;​	&lt;strong&gt;python dump_so.py so_name&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;➜  frida_dump git:(master) ✗ python dump_so.py libc.so              
+&amp;#123;&#39;name&#39;: &#39;libc.so&#39;, &#39;base&#39;: &#39;0xf2282000&#39;, &#39;size&#39;: 819200, &#39;path&#39;: &#39;/apex/com.android.runtime/lib/bionic/libc.so&#39;&amp;#125;
+android/SoFixer32: 1 file pushed. 5.9 MB/s (91848 bytes in 0.015s)
+libc.so.dump.so: 1 file pushed. 21.4 MB/s (819200 bytes in 0.036s)
+adb shell /data/local/tmp/SoFixer -m 0xf2282000 -s /data/local/tmp/libc.so.dump.so -o /data/local/tmp/libc.so.dump.so.fix.so
+[main_loop:87]start to rebuild elf file
+[Load:69]dynamic segment have been found in loadable segment, argument baseso will be ignored.
+[RebuildPhdr:25]=============LoadDynamicSectionFromBaseSource==========RebuildPhdr=========================
+[RebuildPhdr:37]=====================RebuildPhdr End======================
+[ReadSoInfo:549]=======================ReadSoInfo=========================
+[ReadSoInfo:696]soname 
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffffb arg 0x00000001
+[ReadSoInfo:599] rel (DT_REL) found at 15f20
+[ReadSoInfo:603] rel_size (DT_RELSZ) 1703
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffffa arg 0x000005f5
+[ReadSoInfo:591] plt_rel (DT_JMPREL) found at 19458
+[ReadSoInfo:595] plt_rel_count (DT_PLTRELSZ) 617
+[ReadSoInfo:584]symbol table found at 32ac
+[ReadSoInfo:580]string table found at 10e58
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffef5 arg 0x0000a98c
+[ReadSoInfo:629] constructors (DT_INIT_ARRAY) found at b5954
+[ReadSoInfo:633] constructors (DT_INIT_ARRAYSZ) 4
+[ReadSoInfo:637] destructors (DT_FINI_ARRAY) found at b3000
+[ReadSoInfo:641] destructors (DT_FINI_ARRAYSZ) 2
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffff0 arg 0x00009b4c
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffffc arg 0x0000a860
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffffd arg 0x00000009
+[ReadSoInfo:699]Unused DT entry: type 0x6ffffffe arg 0x0000a95c
+[ReadSoInfo:699]Unused DT entry: type 0x6fffffff arg 0x00000001
+[ReadSoInfo:703]=======================ReadSoInfo End=========================
+[RebuildShdr:42]=======================RebuildShdr=========================
+[RebuildShdr:536]=====================RebuildShdr End======================
+[RebuildRelocs:783]=======================RebuildRelocs=========================
+[RebuildRelocs:809]=======================RebuildRelocs End=======================
+[RebuildFin:709]=======================try to finish file rebuild =========================
+[RebuildFin:733]=======================End=========================
+[main:123]Done!!!
+/data/local/tmp/libc.so.dump.so.fix.so: 1 file pulled. 29.0 MB/s (819882 bytes in 0.027s)
+libc.so_0xf2282000_819200_fix.so
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2-dump-android-dex&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-dump-android-dex&#34;&gt;#&lt;/a&gt; 2. dump android dex&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Text&#34;&gt;frida -U --no-pause -f packagename  -l dump_dex.js
+     ____
+    / _  |   Frida 12.4.8 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    &amp;gt; _  |   Commands:
+   /_/ |_|       help      -&amp;gt; Displays the help system
+   . . . .       object?   -&amp;gt; Display information about &#39;object&#39;
+   . . . .       exit/quit -&amp;gt; Exit
+   . . . .
+   . . . .   More info at http://www.frida.re/docs/home/
+Spawned `packagename`. Resuming main thread!
+[Google Pixel XL::packagename]-&amp;gt; [dlopen:] libart.so
+_ZN3art11ClassLinker11DefineClassEPNS_6ThreadEPKcmNS_6HandleINS_6mirror11ClassLoaderEEERKNS_7DexFileERKNS9_8ClassDefE 0x7ac6dc4f74
+[DefineClass:] 0x7ac6dc4f74
+[dump dex]: /data/data/packagename/files/7aab800000_8341c4.dex
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;thanks&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#thanks&#34;&gt;#&lt;/a&gt; Thanks&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0Y4TEVGVC9Tb0ZpeGVy&#34;&gt;https://github.com/F8LEFT/SoFixer&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://xtgh.xyz/2021/09/29/hello-world/</guid>
