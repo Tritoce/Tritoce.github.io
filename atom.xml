@@ -3,7 +3,14 @@
     <id>http://xtgh.xyz</id>
     <title>一个刚建好的博客</title>
     <link href="http://xtgh.xyz" />
-    <updated>2021-10-26T15:17:13.936Z</updated>
+    <updated>2021-10-29T13:54:27.000Z</updated>
+    <entry>
+        <id>http://xtgh.xyz/2021/10/29/test2/</id>
+        <title>test2</title>
+        <link rel="alternate" href="http://xtgh.xyz/2021/10/29/test2/"/>
+        <content type="html"></content>
+        <updated>2021-10-29T13:54:27.000Z</updated>
+    </entry>
     <entry>
         <id>http://xtgh.xyz/2021/10/26/1221/</id>
         <title></title>
