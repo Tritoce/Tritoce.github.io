@@ -3,8 +3,18 @@
     <id>http://xtgh.xyz</id>
     <title>一个刚建好的博客</title>
     <link href="http://xtgh.xyz" />
-    <updated>2021-11-01T09:30:00.000Z</updated>
+    <updated>2021-11-03T03:16:00.000Z</updated>
     <category term="美食" />
+    <entry>
+        <id>http://xtgh.xyz/2021/11/03/2021-11-3-%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</id>
+        <title>一个简单的自我介绍</title>
+        <link rel="alternate" href="http://xtgh.xyz/2021/11/03/2021-11-3-%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+        <content type="html">&lt;h1 id=&#34;一个简单的自我介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一个简单的自我介绍&#34;&gt;#&lt;/a&gt; 一个简单的自我介绍&lt;/h1&gt;
+&lt;p&gt;普通大三学生，计算机专业在读。喜爱逆向工程。&lt;/p&gt;
+&lt;p&gt;置顶测试（&lt;/p&gt;
+</content>
+        <updated>2021-11-03T03:16:00.000Z</updated>
+    </entry>
     <entry>
         <id>http://xtgh.xyz/2021/11/01/%E9%98%BF%E5%8D%A1%E6%9E%97%E7%9A%84%E7%83%B9%E9%A5%AA%E6%96%B9%E5%BC%8F/</id>
         <title>阿卡林的烹饪方式</title>
