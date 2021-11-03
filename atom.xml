@@ -3,8 +3,39 @@
     <id>http://xtgh.xyz</id>
     <title>一个刚建好的博客</title>
     <link href="http://xtgh.xyz" />
-    <updated>2021-11-03T03:16:00.000Z</updated>
+    <updated>2021-11-03T03:28:29.652Z</updated>
     <category term="美食" />
+    <entry>
+        <id>http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</id>
+        <title></title>
+        <link rel="alternate" href="http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+        <content type="html">&lt;h1 id=&#34;yaml-语言测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#yaml-语言测试文档&#34;&gt;#&lt;/a&gt; YAML 语言测试文档&lt;/h1&gt;
+&lt;p&gt;本功能参考 NexT，基于 Hexo Tag 功能，用来建立友链或其他网址链接功能。 文章中的使用格式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h2 id=&#34;结束&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结束&#34;&gt;#&lt;/a&gt; 结束&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2021-11-03T03:28:29.652Z</updated>
+    </entry>
     <entry>
         <id>http://xtgh.xyz/2021/11/03/2021-11-3-%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</id>
         <title>一个简单的自我介绍</title>
