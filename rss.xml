@@ -5,9 +5,17 @@
         <link>http://xtgh.xyz</link>
         <description>一个啥都不会的菜鸡</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 03 Nov 2021 11:28:29 +0800</pubDate>
-        <lastBuildDate>Wed, 03 Nov 2021 11:28:29 +0800</lastBuildDate>
+        <pubDate>Tue, 09 Nov 2021 17:36:34 +0800</pubDate>
+        <lastBuildDate>Tue, 09 Nov 2021 17:36:34 +0800</lastBuildDate>
         <category>美食</category>
+        <item>
+            <guid isPermalink="true">http://xtgh.xyz/2021/11/09/test-github-push/</guid>
+            <title>test github push</title>
+            <link>http://xtgh.xyz/2021/11/09/test-github-push/</link>
+            <pubDate>Tue, 09 Nov 2021 17:36:34 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试github&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试github&#34;&gt;#&lt;/a&gt; 测试 github&lt;/h1&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
             <title></title>

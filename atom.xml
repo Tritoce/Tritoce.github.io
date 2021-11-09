@@ -3,8 +3,16 @@
     <id>http://xtgh.xyz</id>
     <title>一个刚建好的博客</title>
     <link href="http://xtgh.xyz" />
-    <updated>2021-11-03T03:28:29.652Z</updated>
+    <updated>2021-11-09T09:36:34.436Z</updated>
     <category term="美食" />
+    <entry>
+        <id>http://xtgh.xyz/2021/11/09/test-github-push/</id>
+        <title>test github push</title>
+        <link rel="alternate" href="http://xtgh.xyz/2021/11/09/test-github-push/"/>
+        <content type="html">&lt;h1 id=&#34;测试github&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试github&#34;&gt;#&lt;/a&gt; 测试 github&lt;/h1&gt;
+</content>
+        <updated>2021-11-09T09:36:34.436Z</updated>
+    </entry>
     <entry>
         <id>http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</id>
         <title></title>
