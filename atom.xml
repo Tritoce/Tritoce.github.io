@@ -3,8 +3,18 @@
     <id>http://xtgh.xyz</id>
     <title>一个刚建好的博客</title>
     <link href="http://xtgh.xyz" />
-    <updated>2021-11-10T05:43:38.703Z</updated>
+    <updated>2021-11-14T10:31:22.012Z</updated>
     <category term="美食" />
+    <entry>
+        <id>http://xtgh.xyz/2021/11/14/tespt/</id>
+        <title></title>
+        <link rel="alternate" href="http://xtgh.xyz/2021/11/14/tespt/"/>
+        <content type="html">&lt;hr /&gt;
+&lt;h2 id=&#34;title-test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#title-test&#34;&gt;#&lt;/a&gt; title:　test&lt;/h2&gt;
+&lt;p&gt;test&lt;/p&gt;
+</content>
+        <updated>2021-11-14T10:31:22.012Z</updated>
+    </entry>
     <entry>
         <id>http://xtgh.xyz/2021/11/10/webhooks-%E6%B5%8B%E8%AF%95/</id>
         <title>webhooks 测试</title>
