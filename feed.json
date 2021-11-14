@@ -5,14 +5,6 @@
     "home_page_url": "http://xtgh.xyz",
     "items": [
         {
-            "id": "http://xtgh.xyz/2021/11/09/test-github-push/",
-            "url": "http://xtgh.xyz/2021/11/09/test-github-push/",
-            "title": "test github push",
-            "date_published": "2021-11-09T09:36:34.436Z",
-            "content_html": "<h1 id=\"测试github\"><a class=\"anchor\" href=\"#测试github\">#</a> 测试 github</h1>\n",
-            "tags": []
-        },
-        {
             "id": "http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/",
             "url": "http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/",
             "title": "",
