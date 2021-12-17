@@ -5,15 +5,17 @@
         <link>http://xtgh.xyz</link>
         <description>一个啥都不会的菜鸡</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 03 Nov 2021 11:28:29 +0800</pubDate>
-        <lastBuildDate>Wed, 03 Nov 2021 11:28:29 +0800</lastBuildDate>
+        <pubDate>Fri, 17 Dec 2021 14:00:56 +0800</pubDate>
+        <lastBuildDate>Fri, 17 Dec 2021 14:00:56 +0800</lastBuildDate>
         <category>美食</category>
         <item>
-            <guid isPermalink="true">http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
+            <guid isPermalink="true">http://xtgh.xyz/2021/12/17/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
             <title></title>
-            <link>http://xtgh.xyz/2021/11/03/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
-            <pubDate>Wed, 03 Nov 2021 11:28:29 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;yaml-语言测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#yaml-语言测试文档&#34;&gt;#&lt;/a&gt; YAML 语言测试文档&lt;/h1&gt;
+            <link>http://xtgh.xyz/2021/12/17/YAML%20%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
+            <pubDate>Fri, 17 Dec 2021 14:00:56 +0800</pubDate>
+            <description><![CDATA[ &lt;hr /&gt;
+&lt;h2 id=&#34;titleyaml-语言测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#titleyaml-语言测试文档&#34;&gt;#&lt;/a&gt; title：YAML 语言测试文档&lt;/h2&gt;
+&lt;h1 id=&#34;yaml-语言测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#yaml-语言测试文档&#34;&gt;#&lt;/a&gt; YAML 语言测试文档&lt;/h1&gt;
 &lt;p&gt;本功能参考 NexT，基于 Hexo Tag 功能，用来建立友链或其他网址链接功能。 文章中的使用格式：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -37,6 +39,225 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://xtgh.xyz/2021/12/17/%E6%96%87%E6%A1%A3%E6%B5%8B%E8%AF%95/</guid>
+            <title>文档测试</title>
+            <link>http://xtgh.xyz/2021/12/17/%E6%96%87%E6%A1%A3%E6%B5%8B%E8%AF%95/</link>
+            <pubDate>Fri, 17 Dec 2021 14:00:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;xpopup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#xpopup&#34;&gt;#&lt;/a&gt; XPopup&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://api.bintray.com/packages/li-xiaojun/jrepo/xpopup/images/download.svg&#34; alt=&#34;&#34; /&gt;  &lt;img data-src=&#34;https://img.shields.io/badge/platform-android-blue.svg&#34; alt=&#34;&#34; /&gt;  &lt;img data-src=&#34;https://img.shields.io/badge/author-li--xiaojun-brightgreen.svg&#34; alt=&#34;&#34; /&gt; &lt;img data-src=&#34;https://img.shields.io/badge/compileSdkVersion-28-blue.svg&#34; alt=&#34;&#34; /&gt; &lt;img data-src=&#34;https://img.shields.io/badge/minSdkVersion-19-blue.svg&#34; alt=&#34;&#34; /&gt; &lt;img data-src=&#34;https://img.shields.io/hexpm/l/plug.svg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;screenshot/logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;国内 Gitee 镜像地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbHhqX2dpdGVlL1hQb3B1cA==&#34;&gt;https://gitee.com/lxj_gitee/XPopup&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中文-english&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#中文-english&#34;&gt;#&lt;/a&gt; 中文 | &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL2Jsb2IvbWFzdGVyL1JFQURNRS1lbi5tZA==&#34;&gt;English&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;内置几种了常用的弹窗，十几种良好的动画，将弹窗和动画的自定义设计的极其简单；目前还没有出现 XPopup 实现不了的弹窗效果。&lt;br /&gt;
+内置弹窗允许你使用项目已有的布局，同时还能用上 XPopup 提供的动画，交互和逻辑封装。&lt;/li&gt;
+&lt;li&gt;UI 动画简洁，遵循 Material Design，在设计动画的时候考虑了很多细节，过渡，层级的变化&lt;/li&gt;
+&lt;li&gt;交互优雅，实现了优雅的手势交互，智能的嵌套滚动，智能的输入法交互，具体看 Demo&lt;/li&gt;
+&lt;li&gt;适配全面屏和各种挖孔屏，目前适配了小米，华为，谷歌，OPPO，VIVO，三星，魅族，一加全系全面屏手机&lt;/li&gt;
+&lt;li&gt;自动监听 Activity/Fragment 生命周期或任意拥有 Lifecycle 的 UI 组件，自动释放资源。在 Activity/Fragment 直接 finish 的场景也避免了内存泄漏&lt;/li&gt;
+&lt;li&gt;XPopup 实现了 LifecycleOwner，可以直接被 LiveData 监视生命周期，弹窗可见时才更新数据，不可见不更新&lt;/li&gt;
+&lt;li&gt;很好的易用性，自定义弹窗只需继承对应的类，实现你的布局，然后像 Activity 那样，在 &lt;code&gt;onCreate&lt;/code&gt;  方法写逻辑即可&lt;/li&gt;
+&lt;li&gt;性能优异，动画流畅；精心优化的动画，让你很难遇到卡顿场景&lt;/li&gt;
+&lt;li&gt;能在应用后台弹出（需要申请悬浮窗权限，一行代码即可）&lt;/li&gt;
+&lt;li&gt;支持 androidx&lt;/li&gt;
+&lt;li&gt;完美支持 RTL 布局&lt;/li&gt;
+&lt;li&gt;支持小窗模式&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如果你想要时间选择器和城市选择器，可以使用 XPopup 扩展功能库 XPopupExt： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwRXh0&#34;&gt;https://github.com/li-xiaojun/XPopupExt&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;设计思路&lt;/strong&gt;：&lt;br /&gt;
+综合常见的弹窗场景，我将其分为几类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Center 类型，就是在中间弹出的弹窗，比如确认和取消弹窗，Loading 弹窗&lt;/li&gt;
+&lt;li&gt;Bottom 类型，就是从页面底部弹出，比如从底部弹出的分享窗体，知乎的从底部弹出的评论列表，内部已经处理好手势拖拽和嵌套滚动&lt;/li&gt;
+&lt;li&gt;Attach 类型，就是弹窗的位置需要依附于某个 View 或者某个触摸点，就像系统的 PopupMenu 效果一样，但 PopupMenu 的自定义性很差，淘宝的商品列表筛选的下拉弹窗，微信的朋友圈点赞弹窗都是这种。&lt;/li&gt;
+&lt;li&gt;Drawer 类型，就是从窗体的坐边或者右边弹出，并支持手势拖拽；好处是与界面解耦，可以在任何界面实现 DrawerLayout 效果&lt;/li&gt;
+&lt;li&gt;ImageViewer 大图浏览类型，就像微信那样的图片浏览弹窗，带有良好的拖拽交互体验，内部嵌入了改良的 PhotoView 和 subsampling-scale-imageview，支持加载超长长达图片并且不 OOM&lt;/li&gt;
+&lt;li&gt;FullScreen 类型，全屏弹窗，看起来和 Activity 一样，可以设置任意的动画器；适合用来实现登录，选择性的界面效果。&lt;/li&gt;
+&lt;li&gt;Position 自由定位弹窗，弹窗是自由的，你可放在屏幕左上角，右下角，或者任意地方，结合强大的动画器，可以实现各种效果。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;快速体验&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快速体验&#34;&gt;#&lt;/a&gt; 快速体验&lt;/h2&gt;
+&lt;p&gt;Gif 录制的有些卡顿，真机预览效果更佳。扫描二维码下载 Demo：&lt;/p&gt;
+&lt;p&gt;如果二维码图片不可见，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGd5ZXIuY29tL3BJV28=&#34;&gt;点我下载 Demo 体验&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;gradle&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#gradle&#34;&gt;#&lt;/a&gt; Gradle&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://jitpack.io/#li-xiaojun/XPopup&#34;&gt;&lt;img data-src=&#34;https://jitpack.io/v/li-xiaojun/XPopup.svg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;implementation &#39;com.github.li-xiaojun:XPopup:版本号看上面&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;jitpack 还要求在工程根目录的 &lt;code&gt;build.gradle&lt;/code&gt;  中添加如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;allprojects &amp;#123;
+    repositories &amp;#123;
+        ...
+        maven &amp;#123; url &#39;https://jitpack.io&#39; &amp;#125;
+    &amp;#125;
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其中编译版本必须 &amp;gt;= 29：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;compileSdkVersion 29
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;必须添加的依赖库，版本不用和我一致：&lt;/p&gt;
+&lt;figure class=&#34;highlight groovy&#34;&gt;&lt;figcaption data-lang=&#34;groovy&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;implementation &lt;span class=&#34;token string&#34;&gt;&#39;androidx.appcompat:appcompat:1.3.1&#39;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;implementation &lt;span class=&#34;token string&#34;&gt;&#39;com.google.android.material:material:1.4.0&#39;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;implementation &lt;span class=&#34;token string&#34;&gt;&#39;androidx.recyclerview:recyclerview:1.2.1&#39;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;使用文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用文档&#34;&gt;#&lt;/a&gt; 使用文档&lt;/h2&gt;
+&lt;p&gt;具体使用方法全在 WIKI 中，请查看下面各个章节：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvMi4tJUU1JTg2JTg1JUU3JUJEJUFFJUU3JTlBJTg0JUU1JUJDJUI5JUU3JUFBJTk3JUU1JUFFJTlFJUU3JThFJUIw&#34;&gt;如何使用内置的弹窗&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvMy4tJUU4JTg3JUFBJUU1JUFFJTlBJUU0JUI5JTg5JUU1JUJDJUI5JUU3JUFBJTk3&#34;&gt;如何自定义弹窗&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvNC4tJUU4JTg3JUFBJUU1JUFFJTlBJUU0JUI5JTg5JUU1JThBJUE4JUU3JTk0JUJC&#34;&gt;如何自定义动画&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvNS4tJUU1JUI4JUI4JUU3JTk0JUE4JUU4JUFFJUJFJUU3JUJEJUFF&#34;&gt;弹窗常用设置&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvNi4tJUU1JUI4JUI4JUU4JUE3JTgxJUU5JTk3JUFFJUU5JUEyJTk4KCVFNSVCRiU4NSVFNyU5QyU4Qik=&#34;&gt;常见问题（必看）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvNy4tJUU0JUI5JTlGJUU4JUFFJUI4JUU0JUJEJUEwJUU2JTgzJUIzJUU4JUE2JTgxJUU4JUJGJTk5JUU0JUJBJTlCJUU2JTk1JTg4JUU2JTlFJTlD&#34;&gt;也许你想要这些效果&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvOC4tJUU0JUI4JTgwJUU4JUExJThDJUU0JUJCJUEzJUU3JUEwJTgxJUU1JTlDJUE4JUU1JUJBJTk0JUU3JTk0JUE4JUU1JTkwJThFJUU1JThGJUIwJUU1JUJDJUI5JUU1JTg3JUJBJUU1JUJDJUI5JUU3JUFBJTk3&#34;&gt;一行代码在应用后台弹出弹窗&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL3dpa2kvOS4tJUU2JTg4JTkxJUU2JTgzJUIzJUU4JUE2JTgxJUU2JTk3JUI2JUU5JTk3JUI0JUU5JTgwJTg5JUU2JThCJUE5JUU1JTk5JUE4JUU2JTg4JTk2JUU1JTlGJThFJUU1JUI4JTgyJUU5JTgwJTg5JUU2JThCJUE5JUU1JTk5JUE4JUU1JUJDJUI5JUU3JUFBJTk3&#34;&gt;时间选择器和城市选择器&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;混淆&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#混淆&#34;&gt;#&lt;/a&gt; 混淆&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;-dontwarn com.lxj.xpopup.widget.**
+-keep class com.lxj.xpopup.widget.**&amp;#123;*;&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;谁在用xpopup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谁在用xpopup&#34;&gt;#&lt;/a&gt; 谁在用 XPopup&lt;/h2&gt;
+&lt;p&gt;我本人很希望您能&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xpLXhpYW9qdW4vWFBvcHVwL2lzc3Vlcy85Mw==&#34;&gt;点击这里附上&lt;/span&gt;使用这个库的 App 名或者公司名，这样会给我更大的动力和热情去维护这个类库。&lt;/p&gt;
+&lt;p&gt;根据热心朋友提供的信息，目前使用 XPopup 的产品和公司有（70+）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;海鸥地图（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbi5ndWxsbWFwLmNvbS8lRUYlQkMlODk=&#34;&gt;https://cn.gullmap.com/）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;马自达汽车检测（主要是一个汽车厂商工作人员使用的汽车检测 APP）&lt;/li&gt;
+&lt;li&gt;变福侠 App&lt;/li&gt;
+&lt;li&gt;进境肉牛检疫追溯系统 (App 端)&lt;/li&gt;
+&lt;li&gt;太极 (, 维术大神作品，VirtualXposed 作者， 下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29vbGFway5jb20vYXBrL21lLndlaXNodS5leHA=&#34;&gt;https://www.coolapk.com/apk/me.weishu.exp&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;爱勘 (ican) App&lt;/li&gt;
+&lt;li&gt;医美消费指南 (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGd5ZXIuY29tL3lpbWVpYW5kcm9pZA==&#34;&gt;https://www.pgyer.com/yimeiandroid&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;蜜尚（APP 名，广州时尚商业城有限公司（时尚集团））&lt;/li&gt;
+&lt;li&gt;关爱岛&lt;/li&gt;
+&lt;li&gt;密籍 (下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29vbGFway5jb20vYXBrL2NvbS5yYWlyLnVuaWtleQ==&#34;&gt;https://www.coolapk.com/apk/com.rair.unikey&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;万话筒&lt;/li&gt;
+&lt;li&gt;易果无忧&lt;/li&gt;
+&lt;li&gt;Moo 日记， 下载地址 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud2FuZG91amlhLmNvbS9hcHBzLzgwNDQ3NTU=&#34;&gt;https://www.wandoujia.com/apps/8044755&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;智华泊位 (重庆即停科技有限公司)&lt;/li&gt;
+&lt;li&gt;中英互译（梅州小白科技有限责任公司 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zai5xcS5jb20vbXlhcHAvZGV0YWlsLmh0bT9hcGtOYW1lPWNvbS5tZXNzaS5sYW5ndWFnZWhlbHBlciVFRiVCQyU4OQ==&#34;&gt;https://sj.qq.com/myapp/detail.htm?apkName=com.messi.languagehelper）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;采蘑菇（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hLmFwcC5xcS5jb20vby9zaW1wbGUuanNwP3BrZ25hbWU9Y29tLmx4LmNtZyVFRiVCQyU4OQ==&#34;&gt;https://a.app.qq.com/o/simple.jsp?pkgname=com.lx.cmg）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;蜂鸟屋 APP&lt;/li&gt;
+&lt;li&gt;蜂鸟屋 SAAS 平板&lt;/li&gt;
+&lt;li&gt;茶臻选（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbmRyb2lkLm15YXBwLmNvbS9teWFwcC9kZXRhaWwuaHRtP2Fwa05hbWU9Y29tLmFpc28udGVhJmFtcDtBRFRBRz1tb2JpbGUlRUYlQkMlODk=&#34;&gt;https://android.myapp.com/myapp/detail.htm?apkName=com.aiso.tea&amp;amp;ADTAG=mobile）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;风扇屏客户端 app&lt;/li&gt;
+&lt;li&gt;EdifierConnect 漫步者耳机产品 APP&lt;/li&gt;
+&lt;li&gt;斑猪 (广州汇数创联科技有限公司)&lt;/li&gt;
+&lt;li&gt;夜探 (成都波斯猫)&lt;/li&gt;
+&lt;li&gt;极光影院 (个人开发者，可到公众号极光终点站下载)&lt;/li&gt;
+&lt;li&gt;万码（深圳市靠谱软件有限公司）&lt;/li&gt;
+&lt;li&gt;爱多路（常州玺拓软件有限公司 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hLmFwcC5xcS5jb20vby9zaW1wbGUuanNwP3BrZ25hbWU9Y29tLmhpdG90ZWNoLmlkb3J1JUVGJUJDJTg5&#34;&gt;https://a.app.qq.com/o/simple.jsp?pkgname=com.hitotech.idoru）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;有播（公司：浙江有播科技有限公司 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbmRyb2lkLm15YXBwLmNvbS9teWFwcC9kZXRhaWwuaHRtP2Fwa05hbWU9Y29tLmhhaWJhb3Nob3cueW91Ym8lRUYlQkMlODk=&#34;&gt;https://android.myapp.com/myapp/detail.htm?apkName=com.haibaoshow.youbo）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;微寻互助（app）&lt;/li&gt;
+&lt;li&gt;米袋出行 (上海米袋投资集团有限公司（米袋集团）)&lt;/li&gt;
+&lt;li&gt;米袋汽车 (上海米袋投资集团有限公司（米袋集团）)&lt;/li&gt;
+&lt;li&gt;悦动圈 (下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuNTF5dW5kLmNvbS9kb3duP2Zyb209ZGVmYXVsdCZhbXA7dHlwZT1hbmRyb2lk&#34;&gt;https://www.51yund.com/down?from=default&amp;amp;type=android&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;路马帮 App&lt;/li&gt;
+&lt;li&gt;椰子姐姐 App (学习英语的 App)&lt;/li&gt;
+&lt;li&gt;橙杏健康 App，橙杏守护 App（北京橙杏有道有限公司）&lt;/li&gt;
+&lt;li&gt;红星直播（红星美凯龙旗下的直播 App）&lt;/li&gt;
+&lt;li&gt;花生代理 App (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5hcHBjaGluYS5jb20vYXBwL2NvbS5xaS5lYXJ0aG51dHByb3h5&#34;&gt;http://www.appchina.com/app/com.qi.earthnutproxy&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;小鹅通商家助手 APP&lt;/li&gt;
+&lt;li&gt;小鹅通课堂助手 APP&lt;/li&gt;
+&lt;li&gt;小鹅通助手 APP&lt;/li&gt;
+&lt;li&gt;豌豆掌管&lt;/li&gt;
+&lt;li&gt;干货集中营 (下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81ZWY3ZmRiYWYyNjVkYTIyYmUwZDZhYjM=&#34;&gt;https://juejin.im/post/5ef7fdbaf265da22be0d6ab3&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;运动指南针 (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2FwcC5taS5jb20vZGV0YWlscz9pZD1jb20ubHgueXVuZG9uZyZhbXA7cmVmPXNlYXJjaA==&#34;&gt;http://app.mi.com/details?id=com.lx.yundong&amp;amp;ref=search&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;我惠省钱 (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2FwcC5taS5jb20vZGV0YWlscz9pZD1jb20ubHgud2hzcSZhbXA7cmVmPXNlYXJjaA==&#34;&gt;http://app.mi.com/details?id=com.lx.whsq&amp;amp;ref=search&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;中航人商城 (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2FwcC5taS5jb20vZGV0YWlscz9pZD1jb20ubHguemhyc2hvcCZhbXA7cmVmPXNlYXJjaA==&#34;&gt;http://app.mi.com/details?id=com.lx.zhrshop&amp;amp;ref=search&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;求职墙 (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGd5ZXIuY29tL3poYW9waW4=&#34;&gt;https://www.pgyer.com/zhaopin&lt;/span&gt; 密码 000000)&lt;/li&gt;
+&lt;li&gt;多问律师（广州多问科技公司）&lt;/li&gt;
+&lt;li&gt;薪公章 - 公章柜 (类似丰巢的一款硬件设备) 博纳德科技&lt;/li&gt;
+&lt;li&gt;消防云：消防物联网（应用宝搜索就可以下载）- 消防云（上海）科技有限公司&lt;/li&gt;
+&lt;li&gt;《标学教育》 一款给大学生提供优质教育服务的平台型 APP  &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudG9uZ2thbzEwMC5jb20v&#34;&gt;https://www.tongkao100.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;慧孕育，啵咿呀 (中联信息产业公司)&lt;/li&gt;
+&lt;li&gt;领财猫 (湖南中纵联联信息科技有限公司) 一款领取周边红包的 APP，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbmRyb2lkLm15YXBwLmNvbS9teWFwcC9kZXRhaWwuaHRtP2Fwa05hbWU9Y29tLnp3Y3MuY2F0&#34;&gt;https://android.myapp.com/myapp/detail.htm?apkName=com.zwcs.cat&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;NewsClapper（下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5uZXdzY2xhcHBlci52aWRlbyVFRiVCQyU4OQ==&#34;&gt;https://play.google.com/store/apps/details?id=com.newsclapper.video）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;情侣签 App - 千万级用户情侣恋爱记录产品 （下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2FwcC5taS5jb20vZGV0YWlscz9pZD1jb20ueW1zdHVkaW8ubG92ZXJzaWduJmFtcDtyZWY9c2VhcmNoJUVGJUJDJTg5&#34;&gt;http://app.mi.com/details?id=com.ymstudio.loversign&amp;amp;ref=search）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;我爱赚钱 (下载地址: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zai5xcS5jb20vbXlhcHAvZGV0YWlsLmh0bT9hcGtOYW1lPW1lLnR4LnRhc2todW50ZXImYW1wO2luZm89NTMyQkIzNUI2NUQ5RkZBN0Y0OTdERUZBNkUyN0Y2NjM=&#34;&gt;https://sj.qq.com/myapp/detail.htm?apkName=me.tx.taskhunter&amp;amp;info=532BB35B65D9FFA7F497DEFA6E27F663&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;海信智学平台&lt;/li&gt;
+&lt;li&gt;饭友视频聊天交友 (下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hbmRyb2lkLm15YXBwLmNvbS9teWFwcC9kZXRhaWwuaHRtP2Fwa05hbWU9Y29tLnF1YW5tYWkuZmluZHUmYW1wO2luZm89NTE5REZGMUY2OUE0NUVBRjMzQjREMkM1MUE3QUMyRDM=&#34;&gt;https://android.myapp.com/myapp/detail.htm?apkName=com.quanmai.findu&amp;amp;info=519DFF1F69A45EAF33B4D2C51A7AC2D3&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;皮皮陪玩 游戏陪玩语音直播 app &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcHAuYXBlaXdhbi5jb20v&#34;&gt;https://app.apeiwan.com/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;你我有谱（app 名）&lt;/li&gt;
+&lt;li&gt;Bookista(&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5sYXRpbm9yaWVudGUuYm9va2lzdGE=&#34;&gt;https://play.google.com/store/apps/details?id=com.latinoriente.bookista&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;伊的家商城项目&lt;/li&gt;
+&lt;li&gt;点点日记（常州市宏域网络有限公司）&lt;/li&gt;
+&lt;li&gt;职小新&lt;/li&gt;
+&lt;li&gt;指南帮&lt;/li&gt;
+&lt;li&gt;FateU（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mYXRldS5jb20uY24vZG93bmxvYWQvZmF0ZXVBcHAuYXBr&#34;&gt;https://fateu.com.cn/download/fateuApp.apk&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;皮皮有料（嘉兴市字符律动互联网科技有限责任公司 下载地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGd5ZXIuY29tL3dha2FnYW94aWFvJUVGJUJDJTg5&#34;&gt;https://www.pgyer.com/wakagaoxiao）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;海信爱家&lt;/li&gt;
+&lt;li&gt;广州蓝勃生物。产品：ML300 医疗检测在使用。还在开发阶段！&lt;/li&gt;
+&lt;li&gt;轻纺易购（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9memFwcC5jb20vJUVGJUJDJTg5&#34;&gt;https://fzapp.com/）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;洋葱变声器 (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL29uaW9uYXBwLmNu&#34;&gt;http://onionapp.cn&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;SPAX （&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub25lc3BheC5jb20vJUVGJUJDJTg5&#34;&gt;https://www.onespax.com/）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;译录宝 （&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWl2b3guY29tLmNuLyVFRiVCQyU4OQ==&#34;&gt;https://www.aivox.com.cn/）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;SealLive （&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2VhbGxpdmUuYXBwLyMvJUVGJUJDJTg5&#34;&gt;https://www.seallive.app/#/）&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;猫久夕&lt;/li&gt;
+&lt;li&gt;CAD 看图王（app 名） &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95dW4uZ3N0YXJjYWQuY29tL21vYmlsZS8=&#34;&gt;https://yun.gstarcad.com/mobile/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;CAD 手机看图（app 名） &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95dW4uZ3N0YXJjYWQuY29tL21vYmlsZS8=&#34;&gt;https://yun.gstarcad.com/mobile/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;我奥篮球 (北京我奥科技有限公司)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;打个赏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#打个赏&#34;&gt;#&lt;/a&gt; 打个赏&lt;/h2&gt;
+&lt;p&gt;如果你觉得我帮助到了你，节省了你的时间，可以对我进行打赏（打赏时可以附上自己的大名和 Github 地址），金额随意，以表支持。&lt;br /&gt;
+&lt;img data-src=&#34;screenshot/pay.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名字&lt;/th&gt;
+&lt;th&gt;Github 地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Alfred&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LOPER7&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xvcGVyU2V2ZW4=&#34;&gt;https://github.com/loperSeven&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;microshow (RxFFmpeg 作者)&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL21pY3Jvc2hvdw==&#34;&gt;https://github.com/microshow&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;阿里云链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#阿里云链接&#34;&gt;#&lt;/a&gt; 阿里云链接&lt;/h2&gt;
+&lt;p&gt;如果有朋友购买阿里云服务器，可以点我的链接进入：&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxpeXVuLmNvbS9taW5pc2l0ZS9nb29kcz91c2VyQ29kZT1iYWs3cXBhdg==&#34;&gt;https://www.aliyun.com/minisite/goods?userCode=bak7qpav&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;有大量的代金券和折扣！！！&lt;/p&gt;
+&lt;p&gt;ECS-1 核 2G40G 硬盘 1M 带宽 ： 91 元 / 年&lt;/p&gt;
+&lt;p&gt;ECS-2 核 4G40G 硬盘 1M 带宽 ： 414 元 / 年&lt;/p&gt;
+&lt;p&gt;ECS-4 核 8G40G 硬盘 5M 带宽 ： 1046 元 / 年&lt;/p&gt;
+&lt;p&gt;更多产品点击链接进入查看。。。&lt;/p&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#联系方式&#34;&gt;#&lt;/a&gt; 联系方式&lt;/h2&gt;
+&lt;p&gt;Android 开发交流群：&lt;strong&gt;783659607&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;QQ Email: &lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOjE2MTY3NDc5QHFxLmNvbQ==&#34;&gt;16167479@qq.com&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;QQ: 16167479&lt;/p&gt;
+&lt;h2 id=&#34;licenses&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#licenses&#34;&gt;#&lt;/a&gt; Licenses&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt; Copyright 2019 li-xiaojun
+
+ Licensed under the Apache License, Version 2.0 (the &amp;quot;License&amp;quot;);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an &amp;quot;AS IS&amp;quot; BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+&lt;/code&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>
